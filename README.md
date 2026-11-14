@@ -1,37 +1,37 @@
 # Limberth Enmanuel Romero
 
-### Full Stack Developer | JavaScript · React · Node.js
+## Full Stack Developer
 
-Construyo aplicaciones web con interfaces claras, lógica sólida y enfoque en la experiencia de usuario. Me gusta convertir ideas en productos funcionales, aprender rápido y mejorar cada proyecto con buenas prácticas.
+I build practical web experiences with a focus on **clean interfaces, reliable functionality, and continuous improvement**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://enmanuelr02.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnmanuelR02?tab=repositories)
+I am currently developing my professional path in web development and looking for opportunities where I can contribute as a **Junior Full Stack Developer**, learn from an experienced team, and turn real requirements into useful digital products.
 
-## Qué puedo aportar
+[**Visit my portfolio →**](https://enmanuelr02.github.io/)
 
-- Desarrollo de interfaces web modernas, responsive y centradas en el usuario.
-- Construcción de funcionalidades frontend y backend.
-- Integración de APIs y organización de proyectos con código mantenible.
-- Mentalidad de aprendizaje continuo, atención al detalle y compromiso con cada entrega.
+## What I bring
 
-## Stack tecnológico
+- A user-focused approach to frontend development.
+- Experience building both client-side interfaces and backend functionality.
+- Strong motivation to learn, receive feedback, and improve quickly.
+- Attention to structure, maintainability, and the details that make an application feel complete.
 
-### Frontend
+## Technical toolkit
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Frontend**  
+JavaScript · React · Next.js · HTML5 · CSS3 · Tailwind CSS
 
-### Backend
+**Backend**  
+Node.js · Express
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+**Development focus**  
+Responsive web interfaces · API integration · Authentication flows · Form handling · Full-stack application structure
 
-## ¿Trabajamos juntos?
+## Currently open to
 
-Estoy abierto a oportunidades junior, proyectos freelance y colaboraciones donde pueda aportar valor, crecer como desarrollador y formar parte de un equipo orientado a crear productos útiles.
+Junior developer roles, freelance projects, and collaborations where I can help build useful web products while growing alongside a strong development team.
 
-📍 Villa Tapia, La Vega · 🌐 [enmanuelr02.github.io](https://enmanuelr02.github.io/)
+[View all repositories](https://github.com/EnmanuelR02?tab=repositories) · [Explore my portfolio](https://enmanuelr02.github.io/)
+
+---
+
+📍 Villa Tapia, La Vega
