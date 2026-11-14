@@ -4,7 +4,7 @@
 
 I build practical web experiences with a focus on **clean interfaces, reliable functionality, and continuous improvement**.
 
-I am currently developing my professional path in web development and looking for opportunities where I can contribute as a **Junior Full Stack Developer**, learn from an experienced team, and turn real requirements into useful digital products.
+I am developing my professional path in web development and looking for opportunities where I can contribute to a strong team, keep learning, and turn real requirements into useful digital products.
 
 [**Visit my portfolio →**](https://enmanuelr02.github.io/)
 
@@ -26,9 +26,9 @@ Node.js · Express
 **Development focus**  
 Responsive web interfaces · API integration · Authentication flows · Form handling · Full-stack application structure
 
-## Currently open to
+## Open to opportunities
 
-Junior developer roles, freelance projects, and collaborations where I can help build useful web products while growing alongside a strong development team.
+Developer roles, freelance projects, and collaborations where I can help build useful web products while growing alongside a strong development team.
 
 [View all repositories](https://github.com/EnmanuelR02?tab=repositories) · [Explore my portfolio](https://enmanuelr02.github.io/)
 
