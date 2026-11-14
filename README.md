@@ -31,7 +31,3 @@ Responsive web interfaces · API integration · Authentication flows · Form han
 Developer roles, freelance projects, and collaborations where I can help build useful web products while growing alongside a strong development team.
 
 [View all repositories](https://github.com/EnmanuelR02?tab=repositories) · [Explore my portfolio](https://enmanuelr02.github.io/)
-
----
-
-📍 Villa Tapia, La Vega
