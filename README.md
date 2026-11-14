@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://enmanuelr02.github.io/favicon.svg?v=b8b6514" alt="Limberth Romero" width="96" height="96" />
+</p>
+
 # Limberth Enmanuel Romero
 
 ## Full Stack Developer
