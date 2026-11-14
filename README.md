@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | JavaScript · React · Node.js
 
-Construyo aplicaciones web con interfaces claras, lógica sólida y enfoque en la experiencia de usuario. Me gusta convertir ideas en productos funcionales, aprender rápido y mejorar cada proyecto con buenas prácticas de desarrollo.
+Construyo aplicaciones web con interfaces claras, lógica sólida y enfoque en la experiencia de usuario. Me gusta convertir ideas en productos funcionales, aprender rápido y mejorar cada proyecto con buenas prácticas.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://enmanuelr02.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnmanuelR02?tab=repositories)
@@ -29,15 +29,6 @@ Construyo aplicaciones web con interfaces claras, lógica sólida y enfoque en l
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-## Proyectos
-
-Estos proyectos reflejan mi práctica construyendo aplicaciones web, formularios, autenticación y soluciones full stack:
-
-- [Fullstack20220278](https://github.com/EnmanuelR02/Fullstack20220278)
-- [Todo App](https://github.com/EnmanuelR02/todo-app)
-- [Insert Forms](https://github.com/EnmanuelR02/Insert-Forms)
-- [Autenticación](https://github.com/EnmanuelR02/Autenticaci-n-)
 
 ## ¿Trabajamos juntos?
 
