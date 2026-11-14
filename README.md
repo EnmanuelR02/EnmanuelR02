@@ -1,20 +1,19 @@
-## Hi there 👋 my name is Limberth Enmanuel Romero
+# Hola, soy Limberth Enmanuel Romero 👋
 
-## 🚀 About Me
-I'm a Training Developer
+**Desarrollador Full Stack en formación**, interesado en construir aplicaciones web funcionales, accesibles y bien estructuradas.
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+## Sobre mí
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+- Desarrollo proyectos frontend y backend.
+- Trabajo con JavaScript, HTML y CSS.
+- Me interesa seguir creciendo en arquitectura web, APIs y buenas prácticas de desarrollo.
+- Conoce más sobre mis proyectos en mi [portafolio](https://enmanuelr02.github.io/).
 
-## Tech Stack
+## Tecnologías
 
-**Client:** React, Next, TailwindCSS
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express
 
-**Server:** Node, Express
+## Proyectos
 
-
+Explora mis [repositorios de GitHub](https://github.com/EnmanuelR02?tab=repositories) para ver mis proyectos y prácticas de desarrollo.
